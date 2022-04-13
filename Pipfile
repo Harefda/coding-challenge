@@ -8,6 +8,11 @@ sqlalchemy = "*"
 fastapi = "*"
 python-dotenv = "*"
 pydantic = "*"
+uvicorn = "*"
+alembic = "*"
+psycopg2 = "*"
+plotly = "*"
+pandas = "*"
 
 [dev-packages]
 
