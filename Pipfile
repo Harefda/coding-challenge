@@ -13,6 +13,7 @@ alembic = "*"
 psycopg2 = "*"
 plotly = "*"
 pandas = "*"
+requests = "*"
 
 [dev-packages]
 

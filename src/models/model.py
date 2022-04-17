@@ -4,9 +4,9 @@ from app.db import Base
 
 
 class Test(Base):
-    __tablename__ = "test"
+    __tablename__ = "date"
 
     id = Column(Integer, primary_key=True)
-    title = Column(String, nullable=False)
+
 
 
